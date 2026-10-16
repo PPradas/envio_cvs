@@ -1,4 +1,4 @@
-# Job Finder CV 🔍
+# envio_cvs
 
 Aplicación web que analiza tu CV con IA y encuentra ofertas de trabajo acordes a tu perfil.
 
